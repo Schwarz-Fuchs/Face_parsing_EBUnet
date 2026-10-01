@@ -1,0 +1,404 @@
+Elapsed [0:01:15], Step [100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.9703, Loss: 2.7286, CE_loss:2.6328, DICE_loss:0.9573,CONES_loss:0.0000, LR: 0.000100 ,Train_F1:0.0776
+Elapsed [0:02:28], Step [200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.8671, Loss: 2.0407, CE_loss:1.9482, DICE_loss:0.9242,CONES_loss:0.0000, LR: 0.000200 ,Train_F1:0.0994
+Elapsed [0:03:23], Step [300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.6737, Loss: 1.4830, CE_loss:1.3937, DICE_loss:0.8930,CONES_loss:0.0000, LR: 0.000300 ,Train_F1:0.1204
+Elapsed [0:04:18], Step [400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.5311, Loss: 1.1170, CE_loss:1.0335, DICE_loss:0.8349,CONES_loss:0.0000, LR: 0.000400 ,Train_F1:0.2195
+Elapsed [0:05:14], Step [500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.5333, Loss: 1.0000, CE_loss:0.9225, DICE_loss:0.7749,CONES_loss:0.0000, LR: 0.000500 ,Train_F1:0.3713
+
+Step Evaluation Detailed F1:
+background: 0.7811, skin: 0.8374, nose: 0.5848, eye_g: 0.0161, l_eye: 0.5505, r_eye: 0.5330, l_brow: 0.4748, r_brow: 0.4885, l_ear: 0.0452, r_ear: 0.3239, mouth: 0.4477, u_lip: 0.3432, l_lip: 0.3666, hair: 0.7492, hat: 0.0007, ear_r: 0.0133, neck_l: 0.0000, neck: 0.6396, cloth: 0.1206, 
+Macro F1: 0.3851
+Validation Macro F1-score: 0.3851
+Elapsed [0:06:10], Step [600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.3673, Loss: 0.8262, CE_loss:0.7608, DICE_loss:0.6539,CONES_loss:0.0000, LR: 0.000500 ,Train_F1:0.5067
+Elapsed [0:07:06], Step [700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.3291, Loss: 0.7131, CE_loss:0.6515, DICE_loss:0.6165,CONES_loss:0.0000, LR: 0.000500 ,Train_F1:0.5376
+Elapsed [0:08:03], Step [800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2469, Loss: 0.4827, CE_loss:0.4231, DICE_loss:0.5965,CONES_loss:0.0000, LR: 0.000500 ,Train_F1:0.5885
+Elapsed [0:09:00], Step [900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2574, Loss: 0.4775, CE_loss:0.4196, DICE_loss:0.5785,CONES_loss:0.0000, LR: 0.000499 ,Train_F1:0.6005
+Elapsed [0:09:57], Step [1000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2481, Loss: 0.4739, CE_loss:0.4155, DICE_loss:0.5844,CONES_loss:0.0000, LR: 0.000499 ,Train_F1:0.5857
+
+Step Evaluation Detailed F1:
+background: 0.8457, skin: 0.9087, nose: 0.8651, eye_g: 0.2307, l_eye: 0.7680, r_eye: 0.7668, l_brow: 0.7343, r_brow: 0.7455, l_ear: 0.5914, r_ear: 0.5878, mouth: 0.7138, u_lip: 0.7044, l_lip: 0.7066, hair: 0.8404, hat: 0.0179, ear_r: 0.1591, neck_l: 0.0000, neck: 0.7563, cloth: 0.3592, 
+Macro F1: 0.5948
+Validation Macro F1-score: 0.5948
+Elapsed [0:10:54], Step [1100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2217, Loss: 0.4854, CE_loss:0.4276, DICE_loss:0.5777,CONES_loss:0.0000, LR: 0.000499 ,Train_F1:0.6514
+Elapsed [0:11:50], Step [1200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.3700, Loss: 0.8612, CE_loss:0.8003, DICE_loss:0.6087,CONES_loss:0.0000, LR: 0.000498 ,Train_F1:0.5448
+Elapsed [0:12:46], Step [1300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2322, Loss: 0.4416, CE_loss:0.3845, DICE_loss:0.5712,CONES_loss:0.0000, LR: 0.000498 ,Train_F1:0.5931
+Elapsed [0:13:41], Step [1400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2749, Loss: 0.5536, CE_loss:0.5001, DICE_loss:0.5351,CONES_loss:0.0000, LR: 0.000497 ,Train_F1:0.6383
+Elapsed [0:14:37], Step [1500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2509, Loss: 0.6272, CE_loss:0.5738, DICE_loss:0.5343,CONES_loss:0.0000, LR: 0.000497 ,Train_F1:0.5798
+
+Step Evaluation Detailed F1:
+background: 0.8656, skin: 0.9255, nose: 0.8801, eye_g: 0.2253, l_eye: 0.7866, r_eye: 0.7568, l_brow: 0.7505, r_brow: 0.7610, l_ear: 0.6661, r_ear: 0.6083, mouth: 0.7622, u_lip: 0.7558, l_lip: 0.7760, hair: 0.8648, hat: 0.0779, ear_r: 0.2205, neck_l: 0.0000, neck: 0.8047, cloth: 0.5002, 
+Macro F1: 0.6309
+Validation Macro F1-score: 0.6309
+Elapsed [0:15:34], Step [1600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2316, Loss: 0.4391, CE_loss:0.3868, DICE_loss:0.5226,CONES_loss:0.0000, LR: 0.000496 ,Train_F1:0.6389
+Elapsed [0:16:30], Step [1700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1793, Loss: 0.3802, CE_loss:0.3297, DICE_loss:0.5041,CONES_loss:0.0000, LR: 0.000495 ,Train_F1:0.6727
+Elapsed [0:17:26], Step [1800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1756, Loss: 0.3118, CE_loss:0.2623, DICE_loss:0.4949,CONES_loss:0.0000, LR: 0.000495 ,Train_F1:0.6473
+Elapsed [0:18:21], Step [1900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1901, Loss: 0.3526, CE_loss:0.3005, DICE_loss:0.5216,CONES_loss:0.0000, LR: 0.000494 ,Train_F1:0.6372
+Elapsed [0:19:17], Step [2000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1735, Loss: 0.3668, CE_loss:0.3130, DICE_loss:0.5375,CONES_loss:0.0000, LR: 0.000493 ,Train_F1:0.6337
+
+Step Evaluation Detailed F1:
+background: 0.8903, skin: 0.9274, nose: 0.8896, eye_g: 0.3430, l_eye: 0.7718, r_eye: 0.7295, l_brow: 0.7486, r_brow: 0.7574, l_ear: 0.6548, r_ear: 0.6735, mouth: 0.7398, u_lip: 0.7720, l_lip: 0.7620, hair: 0.8799, hat: 0.0988, ear_r: 0.2529, neck_l: 0.0000, neck: 0.8309, cloth: 0.5013, 
+Macro F1: 0.6433
+Validation Macro F1-score: 0.6433
+Elapsed [0:20:14], Step [2100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1992, Loss: 0.3562, CE_loss:0.3080, DICE_loss:0.4812,CONES_loss:0.0000, LR: 0.000492 ,Train_F1:0.7375
+Elapsed [0:21:09], Step [2200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1731, Loss: 0.3188, CE_loss:0.2704, DICE_loss:0.4844,CONES_loss:0.0000, LR: 0.000491 ,Train_F1:0.6598
+Elapsed [0:22:05], Step [2300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2678, Loss: 0.7746, CE_loss:0.7201, DICE_loss:0.5448,CONES_loss:0.0000, LR: 0.000490 ,Train_F1:0.5923
+Elapsed [0:23:01], Step [2400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1576, Loss: 0.3206, CE_loss:0.2713, DICE_loss:0.4931,CONES_loss:0.0000, LR: 0.000488 ,Train_F1:0.6192
+Elapsed [0:23:56], Step [2500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1549, Loss: 0.3089, CE_loss:0.2602, DICE_loss:0.4870,CONES_loss:0.0000, LR: 0.000487 ,Train_F1:0.6390
+
+Step Evaluation Detailed F1:
+background: 0.8944, skin: 0.9303, nose: 0.8986, eye_g: 0.3434, l_eye: 0.7702, r_eye: 0.7689, l_brow: 0.7669, r_brow: 0.7628, l_ear: 0.7029, r_ear: 0.6926, mouth: 0.7859, u_lip: 0.7912, l_lip: 0.8026, hair: 0.8866, hat: 0.0976, ear_r: 0.3113, neck_l: 0.0000, neck: 0.8302, cloth: 0.5923, 
+Macro F1: 0.6647
+Validation Macro F1-score: 0.6647
+Elapsed [0:24:54], Step [2600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1405, Loss: 0.2608, CE_loss:0.2146, DICE_loss:0.4624,CONES_loss:0.0000, LR: 0.000486 ,Train_F1:0.6693
+Elapsed [0:25:49], Step [2700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2599, Loss: 0.5555, CE_loss:0.5060, DICE_loss:0.4949,CONES_loss:0.0000, LR: 0.000484 ,Train_F1:0.6463
+Elapsed [0:26:45], Step [2800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2581, Loss: 0.6048, CE_loss:0.5515, DICE_loss:0.5327,CONES_loss:0.0000, LR: 0.000483 ,Train_F1:0.6476
+Elapsed [0:27:41], Step [2900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2353, Loss: 0.5099, CE_loss:0.4587, DICE_loss:0.5115,CONES_loss:0.0000, LR: 0.000482 ,Train_F1:0.6475
+Elapsed [0:28:37], Step [3000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2332, Loss: 0.4431, CE_loss:0.3910, DICE_loss:0.5213,CONES_loss:0.0000, LR: 0.000480 ,Train_F1:0.6195
+
+Step Evaluation Detailed F1:
+background: 0.8839, skin: 0.9346, nose: 0.9062, eye_g: 0.3435, l_eye: 0.7788, r_eye: 0.7854, l_brow: 0.7880, r_brow: 0.7906, l_ear: 0.7201, r_ear: 0.7339, mouth: 0.8061, u_lip: 0.7652, l_lip: 0.8078, hair: 0.8883, hat: 0.1107, ear_r: 0.2982, neck_l: 0.0000, neck: 0.8351, cloth: 0.5938, 
+Macro F1: 0.6721
+Validation Macro F1-score: 0.6721
+Elapsed [0:29:35], Step [3100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1509, Loss: 0.2758, CE_loss:0.2285, DICE_loss:0.4732,CONES_loss:0.0000, LR: 0.000478 ,Train_F1:0.6678
+Elapsed [0:30:31], Step [3200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1832, Loss: 0.4086, CE_loss:0.3579, DICE_loss:0.5073,CONES_loss:0.0000, LR: 0.000477 ,Train_F1:0.6324
+Elapsed [0:31:26], Step [3300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2478, Loss: 0.5445, CE_loss:0.4923, DICE_loss:0.5218,CONES_loss:0.0000, LR: 0.000475 ,Train_F1:0.6486
+Elapsed [0:32:21], Step [3400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1725, Loss: 0.3679, CE_loss:0.3223, DICE_loss:0.4559,CONES_loss:0.0000, LR: 0.000473 ,Train_F1:0.6950
+Elapsed [0:33:17], Step [3500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1332, Loss: 0.2718, CE_loss:0.2268, DICE_loss:0.4506,CONES_loss:0.0000, LR: 0.000471 ,Train_F1:0.6955
+
+Step Evaluation Detailed F1:
+background: 0.9109, skin: 0.9369, nose: 0.9010, eye_g: 0.3678, l_eye: 0.7812, r_eye: 0.7766, l_brow: 0.7970, r_brow: 0.8027, l_ear: 0.7364, r_ear: 0.7048, mouth: 0.8027, u_lip: 0.7855, l_lip: 0.7815, hair: 0.9054, hat: 0.0991, ear_r: 0.3247, neck_l: 0.0000, neck: 0.8530, cloth: 0.5783, 
+Macro F1: 0.6761
+Validation Macro F1-score: 0.6761
+Elapsed [0:34:13], Step [3600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1332, Loss: 0.2663, CE_loss:0.2178, DICE_loss:0.4844,CONES_loss:0.0000, LR: 0.000469 ,Train_F1:0.7019
+Elapsed [0:35:09], Step [3700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1436, Loss: 0.2888, CE_loss:0.2422, DICE_loss:0.4661,CONES_loss:0.0000, LR: 0.000468 ,Train_F1:0.6721
+Elapsed [0:36:04], Step [3800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1441, Loss: 0.2805, CE_loss:0.2361, DICE_loss:0.4437,CONES_loss:0.0000, LR: 0.000465 ,Train_F1:0.7790
+Elapsed [0:36:59], Step [3900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1799, Loss: 0.4046, CE_loss:0.3597, DICE_loss:0.4490,CONES_loss:0.0000, LR: 0.000463 ,Train_F1:0.6957
+Elapsed [0:37:54], Step [4000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1952, Loss: 0.3980, CE_loss:0.3511, DICE_loss:0.4683,CONES_loss:0.0000, LR: 0.000461 ,Train_F1:0.6498
+
+Step Evaluation Detailed F1:
+background: 0.9137, skin: 0.9403, nose: 0.9057, eye_g: 0.3668, l_eye: 0.8267, r_eye: 0.8217, l_brow: 0.7894, r_brow: 0.7939, l_ear: 0.7143, r_ear: 0.7359, mouth: 0.8103, u_lip: 0.7985, l_lip: 0.8330, hair: 0.9050, hat: 0.1259, ear_r: 0.3048, neck_l: 0.0000, neck: 0.8558, cloth: 0.6614, 
+Macro F1: 0.6896
+Validation Macro F1-score: 0.6896
+Elapsed [0:38:51], Step [4100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1312, Loss: 0.2931, CE_loss:0.2477, DICE_loss:0.4537,CONES_loss:0.0000, LR: 0.000459 ,Train_F1:0.6873
+Elapsed [0:39:46], Step [4200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1906, Loss: 0.3629, CE_loss:0.3189, DICE_loss:0.4407,CONES_loss:0.0000, LR: 0.000457 ,Train_F1:0.6821
+Elapsed [0:40:42], Step [4300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1308, Loss: 0.2485, CE_loss:0.2023, DICE_loss:0.4623,CONES_loss:0.0000, LR: 0.000455 ,Train_F1:0.7670
+Elapsed [0:41:38], Step [4400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1194, Loss: 0.2383, CE_loss:0.1957, DICE_loss:0.4259,CONES_loss:0.0000, LR: 0.000452 ,Train_F1:0.6684
+Elapsed [0:42:33], Step [4500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1779, Loss: 0.4008, CE_loss:0.3544, DICE_loss:0.4644,CONES_loss:0.0000, LR: 0.000450 ,Train_F1:0.7276
+
+Step Evaluation Detailed F1:
+background: 0.9166, skin: 0.9398, nose: 0.9062, eye_g: 0.3590, l_eye: 0.8234, r_eye: 0.8305, l_brow: 0.7748, r_brow: 0.7962, l_ear: 0.7230, r_ear: 0.7191, mouth: 0.8180, u_lip: 0.8031, l_lip: 0.8277, hair: 0.9129, hat: 0.1338, ear_r: 0.3435, neck_l: 0.0000, neck: 0.8534, cloth: 0.6581, 
+Macro F1: 0.6915
+Validation Macro F1-score: 0.6915
+Elapsed [0:43:29], Step [4600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1471, Loss: 0.3162, CE_loss:0.2679, DICE_loss:0.4825,CONES_loss:0.0000, LR: 0.000447 ,Train_F1:0.7131
+Elapsed [0:44:24], Step [4700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1265, Loss: 0.2664, CE_loss:0.2192, DICE_loss:0.4718,CONES_loss:0.0000, LR: 0.000445 ,Train_F1:0.7408
+Elapsed [0:45:20], Step [4800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1945, Loss: 0.4553, CE_loss:0.4058, DICE_loss:0.4943,CONES_loss:0.0000, LR: 0.000442 ,Train_F1:0.6495
+Elapsed [0:46:15], Step [4900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1523, Loss: 0.3502, CE_loss:0.3027, DICE_loss:0.4748,CONES_loss:0.0000, LR: 0.000440 ,Train_F1:0.6994
+Elapsed [0:47:10], Step [5000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.0965, Loss: 0.2198, CE_loss:0.1779, DICE_loss:0.4193,CONES_loss:0.0000, LR: 0.000437 ,Train_F1:0.7161
+
+Step Evaluation Detailed F1:
+background: 0.9138, skin: 0.9443, nose: 0.9116, eye_g: 0.3803, l_eye: 0.8246, r_eye: 0.8273, l_brow: 0.8031, r_brow: 0.8026, l_ear: 0.7411, r_ear: 0.7292, mouth: 0.8091, u_lip: 0.8090, l_lip: 0.8162, hair: 0.9068, hat: 0.1354, ear_r: 0.3744, neck_l: 0.0000, neck: 0.8617, cloth: 0.6516, 
+Macro F1: 0.6970
+Validation Macro F1-score: 0.6970
+pth file saved!
+Elapsed [0:48:06], Step [5100/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1781, Loss: 0.3758, CE_loss:0.3275, DICE_loss:0.4828,CONES_loss:0.0000, LR: 0.000434 ,Train_F1:0.6593
+Elapsed [0:49:01], Step [5200/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1389, Loss: 0.2847, CE_loss:0.2379, DICE_loss:0.4685,CONES_loss:0.0000, LR: 0.000432 ,Train_F1:0.6776
+Elapsed [0:49:56], Step [5300/20000], OHEM_STATUS:0.0, Hard_ratio: 0.2217, Loss: 0.5419, CE_loss:0.4955, DICE_loss:0.4643,CONES_loss:0.0000, LR: 0.000429 ,Train_F1:0.6945
+Elapsed [0:50:50], Step [5400/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1197, Loss: 0.2361, CE_loss:0.1905, DICE_loss:0.4561,CONES_loss:0.0000, LR: 0.000426 ,Train_F1:0.7426
+Elapsed [0:51:45], Step [5500/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1259, Loss: 0.2623, CE_loss:0.2199, DICE_loss:0.4242,CONES_loss:0.0000, LR: 0.000423 ,Train_F1:0.7571
+
+Step Evaluation Detailed F1:
+background: 0.9225, skin: 0.9440, nose: 0.8977, eye_g: 0.3639, l_eye: 0.8333, r_eye: 0.8364, l_brow: 0.8048, r_brow: 0.8085, l_ear: 0.7696, r_ear: 0.7633, mouth: 0.8051, u_lip: 0.8164, l_lip: 0.8258, hair: 0.9110, hat: 0.1267, ear_r: 0.3820, neck_l: 0.0018, neck: 0.8625, cloth: 0.6775, 
+Macro F1: 0.7028
+Validation Macro F1-score: 0.7028
+Elapsed [0:52:41], Step [5600/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1544, Loss: 0.3075, CE_loss:0.2609, DICE_loss:0.4661,CONES_loss:0.0000, LR: 0.000420 ,Train_F1:0.7226
+Elapsed [0:53:36], Step [5700/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1587, Loss: 0.3585, CE_loss:0.3118, DICE_loss:0.4666,CONES_loss:0.0000, LR: 0.000417 ,Train_F1:0.7030
+Elapsed [0:54:30], Step [5800/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1362, Loss: 0.2813, CE_loss:0.2342, DICE_loss:0.4709,CONES_loss:0.0000, LR: 0.000414 ,Train_F1:0.6778
+Elapsed [0:55:24], Step [5900/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1155, Loss: 0.2263, CE_loss:0.1828, DICE_loss:0.4349,CONES_loss:0.0000, LR: 0.000411 ,Train_F1:0.8174
+Elapsed [0:56:19], Step [6000/20000], OHEM_STATUS:0.0, Hard_ratio: 0.1648, Loss: 0.3072, CE_loss:0.2630, DICE_loss:0.4416,CONES_loss:0.0000, LR: 0.000408 ,Train_F1:0.6901
+
+Step Evaluation Detailed F1:
+background: 0.9182, skin: 0.9438, nose: 0.9102, eye_g: 0.3609, l_eye: 0.8339, r_eye: 0.8353, l_brow: 0.8113, r_brow: 0.8067, l_ear: 0.7450, r_ear: 0.7389, mouth: 0.8262, u_lip: 0.8100, l_lip: 0.8414, hair: 0.9096, hat: 0.1340, ear_r: 0.3731, neck_l: 0.0069, neck: 0.8609, cloth: 0.6457, 
+Macro F1: 0.7006
+Validation Macro F1-score: 0.7006
+Elapsed [0:57:16], Step [6100/20000], OHEM_STATUS:0.79505, Hard_ratio: 0.0893, Loss: 0.2957, CE_loss:0.0923, DICE_loss:0.4069,CONES_loss:0.0000, LR: 0.000405 ,Train_F1:0.6985
+Elapsed [0:58:12], Step [6200/20000], OHEM_STATUS:0.79005, Hard_ratio: 0.1134, Loss: 0.3387, CE_loss:0.1207, DICE_loss:0.4361,CONES_loss:0.0000, LR: 0.000402 ,Train_F1:0.7097
+Elapsed [0:59:09], Step [6300/20000], OHEM_STATUS:0.78505, Hard_ratio: 0.1070, Loss: 0.3471, CE_loss:0.1224, DICE_loss:0.4494,CONES_loss:0.0000, LR: 0.000399 ,Train_F1:0.6964
+Elapsed [1:00:04], Step [6400/20000], OHEM_STATUS:0.78005, Hard_ratio: 0.1694, Loss: 0.4293, CE_loss:0.2153, DICE_loss:0.4281,CONES_loss:0.0000, LR: 0.000395 ,Train_F1:0.6772
+Elapsed [1:01:00], Step [6500/20000], OHEM_STATUS:0.77505, Hard_ratio: 0.1013, Loss: 0.3226, CE_loss:0.1122, DICE_loss:0.4209,CONES_loss:0.0000, LR: 0.000392 ,Train_F1:0.7044
+
+Step Evaluation Detailed F1:
+background: 0.9219, skin: 0.9451, nose: 0.9184, eye_g: 0.3801, l_eye: 0.8499, r_eye: 0.8511, l_brow: 0.8061, r_brow: 0.8103, l_ear: 0.7403, r_ear: 0.7264, mouth: 0.8297, u_lip: 0.8403, l_lip: 0.8362, hair: 0.9087, hat: 0.1305, ear_r: 0.3800, neck_l: 0.0043, neck: 0.8656, cloth: 0.6348, 
+Macro F1: 0.7042
+Validation Macro F1-score: 0.7042
+Elapsed [1:01:57], Step [6600/20000], OHEM_STATUS:0.77005, Hard_ratio: 0.1206, Loss: 0.3605, CE_loss:0.1484, DICE_loss:0.4242,CONES_loss:0.0000, LR: 0.000389 ,Train_F1:0.7315
+Elapsed [1:02:53], Step [6700/20000], OHEM_STATUS:0.76505, Hard_ratio: 0.0995, Loss: 0.3635, CE_loss:0.1487, DICE_loss:0.4295,CONES_loss:0.0000, LR: 0.000385 ,Train_F1:0.8277
+Elapsed [1:03:49], Step [6800/20000], OHEM_STATUS:0.7600500000000001, Hard_ratio: 0.1222, Loss: 0.3591, CE_loss:0.1572, DICE_loss:0.4039,CONES_loss:0.0000, LR: 0.000382 ,Train_F1:0.7631
+Elapsed [1:04:45], Step [6900/20000], OHEM_STATUS:0.75505, Hard_ratio: 0.1094, Loss: 0.3354, CE_loss:0.1245, DICE_loss:0.4219,CONES_loss:0.0000, LR: 0.000378 ,Train_F1:0.7292
+Elapsed [1:05:41], Step [7000/20000], OHEM_STATUS:0.7500500000000001, Hard_ratio: 0.1100, Loss: 0.3241, CE_loss:0.1398, DICE_loss:0.3686,CONES_loss:0.0000, LR: 0.000375 ,Train_F1:0.7482
+
+Step Evaluation Detailed F1:
+background: 0.9110, skin: 0.9434, nose: 0.9164, eye_g: 0.3416, l_eye: 0.8232, r_eye: 0.8335, l_brow: 0.8148, r_brow: 0.8103, l_ear: 0.7566, r_ear: 0.7699, mouth: 0.8181, u_lip: 0.8382, l_lip: 0.8301, hair: 0.9052, hat: 0.1371, ear_r: 0.3826, neck_l: 0.0021, neck: 0.8509, cloth: 0.6238, 
+Macro F1: 0.7005
+Validation Macro F1-score: 0.7005
+Elapsed [1:06:38], Step [7100/20000], OHEM_STATUS:0.74505, Hard_ratio: 0.1454, Loss: 0.4411, CE_loss:0.2230, DICE_loss:0.4361,CONES_loss:0.0000, LR: 0.000371 ,Train_F1:0.7188
+Elapsed [1:07:34], Step [7200/20000], OHEM_STATUS:0.7400500000000001, Hard_ratio: 0.1257, Loss: 0.3923, CE_loss:0.1773, DICE_loss:0.4300,CONES_loss:0.0000, LR: 0.000368 ,Train_F1:0.7891
+Elapsed [1:08:29], Step [7300/20000], OHEM_STATUS:0.73505, Hard_ratio: 0.1476, Loss: 0.4112, CE_loss:0.1898, DICE_loss:0.4428,CONES_loss:0.0000, LR: 0.000364 ,Train_F1:0.6800
+Elapsed [1:09:24], Step [7400/20000], OHEM_STATUS:0.7300500000000001, Hard_ratio: 0.1124, Loss: 0.3538, CE_loss:0.1436, DICE_loss:0.4203,CONES_loss:0.0000, LR: 0.000361 ,Train_F1:0.6749
+Elapsed [1:10:20], Step [7500/20000], OHEM_STATUS:0.72505, Hard_ratio: 0.1310, Loss: 0.3559, CE_loss:0.1577, DICE_loss:0.3964,CONES_loss:0.0000, LR: 0.000357 ,Train_F1:0.7179
+
+Step Evaluation Detailed F1:
+background: 0.9208, skin: 0.9459, nose: 0.9193, eye_g: 0.3696, l_eye: 0.8475, r_eye: 0.8456, l_brow: 0.8088, r_brow: 0.8165, l_ear: 0.7594, r_ear: 0.7442, mouth: 0.8348, u_lip: 0.8382, l_lip: 0.8468, hair: 0.9090, hat: 0.1402, ear_r: 0.3585, neck_l: 0.0056, neck: 0.8684, cloth: 0.6293, 
+Macro F1: 0.7057
+Validation Macro F1-score: 0.7057
+Elapsed [1:11:17], Step [7600/20000], OHEM_STATUS:0.7200500000000001, Hard_ratio: 0.0965, Loss: 0.3274, CE_loss:0.1223, DICE_loss:0.4102,CONES_loss:0.0000, LR: 0.000354 ,Train_F1:0.7331
+Elapsed [1:12:12], Step [7700/20000], OHEM_STATUS:0.71505, Hard_ratio: 0.1853, Loss: 0.5448, CE_loss:0.3203, DICE_loss:0.4490,CONES_loss:0.0000, LR: 0.000350 ,Train_F1:0.7309
+Elapsed [1:13:08], Step [7800/20000], OHEM_STATUS:0.7100500000000001, Hard_ratio: 0.1200, Loss: 0.3574, CE_loss:0.1556, DICE_loss:0.4035,CONES_loss:0.0000, LR: 0.000346 ,Train_F1:0.7436
+Elapsed [1:14:04], Step [7900/20000], OHEM_STATUS:0.70505, Hard_ratio: 0.1107, Loss: 0.3633, CE_loss:0.1575, DICE_loss:0.4116,CONES_loss:0.0000, LR: 0.000342 ,Train_F1:0.6870
+Elapsed [1:15:00], Step [8000/20000], OHEM_STATUS:0.7000500000000001, Hard_ratio: 0.1323, Loss: 0.3838, CE_loss:0.1746, DICE_loss:0.4184,CONES_loss:0.0000, LR: 0.000339 ,Train_F1:0.7216
+
+Step Evaluation Detailed F1:
+background: 0.9255, skin: 0.9455, nose: 0.9175, eye_g: 0.3367, l_eye: 0.8575, r_eye: 0.8518, l_brow: 0.8089, r_brow: 0.8188, l_ear: 0.7695, r_ear: 0.7663, mouth: 0.8287, u_lip: 0.8467, l_lip: 0.8260, hair: 0.9162, hat: 0.1351, ear_r: 0.4012, neck_l: 0.0025, neck: 0.8655, cloth: 0.6635, 
+Macro F1: 0.7097
+Validation Macro F1-score: 0.7097
+Elapsed [1:15:57], Step [8100/20000], OHEM_STATUS:0.6950500000000001, Hard_ratio: 0.1312, Loss: 0.3962, CE_loss:0.1826, DICE_loss:0.4273,CONES_loss:0.0000, LR: 0.000335 ,Train_F1:0.7332
+Elapsed [1:16:53], Step [8200/20000], OHEM_STATUS:0.69005, Hard_ratio: 0.1177, Loss: 0.3985, CE_loss:0.1867, DICE_loss:0.4237,CONES_loss:0.0000, LR: 0.000331 ,Train_F1:0.7601
+Elapsed [1:17:49], Step [8300/20000], OHEM_STATUS:0.68505, Hard_ratio: 0.1198, Loss: 0.3748, CE_loss:0.1582, DICE_loss:0.4333,CONES_loss:0.0000, LR: 0.000327 ,Train_F1:0.6999
+Elapsed [1:18:45], Step [8400/20000], OHEM_STATUS:0.68005, Hard_ratio: 0.1343, Loss: 0.4317, CE_loss:0.2279, DICE_loss:0.4076,CONES_loss:0.0000, LR: 0.000323 ,Train_F1:0.7813
+Elapsed [1:19:41], Step [8500/20000], OHEM_STATUS:0.67505, Hard_ratio: 0.0944, Loss: 0.3357, CE_loss:0.1347, DICE_loss:0.4020,CONES_loss:0.0000, LR: 0.000320 ,Train_F1:0.8011
+
+Step Evaluation Detailed F1:
+background: 0.9254, skin: 0.9448, nose: 0.9202, eye_g: 0.3745, l_eye: 0.8568, r_eye: 0.8598, l_brow: 0.8092, r_brow: 0.8107, l_ear: 0.7712, r_ear: 0.7909, mouth: 0.8247, u_lip: 0.8452, l_lip: 0.8332, hair: 0.9163, hat: 0.1344, ear_r: 0.4353, neck_l: 0.0078, neck: 0.8751, cloth: 0.6779, 
+Macro F1: 0.7165
+Validation Macro F1-score: 0.7165
+Elapsed [1:20:37], Step [8600/20000], OHEM_STATUS:0.67005, Hard_ratio: 0.0840, Loss: 0.3268, CE_loss:0.1124, DICE_loss:0.4288,CONES_loss:0.0000, LR: 0.000316 ,Train_F1:0.7305
+Elapsed [1:21:33], Step [8700/20000], OHEM_STATUS:0.66505, Hard_ratio: 0.1068, Loss: 0.3631, CE_loss:0.1536, DICE_loss:0.4189,CONES_loss:0.0000, LR: 0.000312 ,Train_F1:0.6924
+Elapsed [1:22:29], Step [8800/20000], OHEM_STATUS:0.66005, Hard_ratio: 0.1026, Loss: 0.3654, CE_loss:0.1406, DICE_loss:0.4497,CONES_loss:0.0000, LR: 0.000308 ,Train_F1:0.7162
+Elapsed [1:23:25], Step [8900/20000], OHEM_STATUS:0.65505, Hard_ratio: 0.1122, Loss: 0.3531, CE_loss:0.1561, DICE_loss:0.3940,CONES_loss:0.0000, LR: 0.000304 ,Train_F1:0.7774
+Elapsed [1:24:20], Step [9000/20000], OHEM_STATUS:0.65005, Hard_ratio: 0.1007, Loss: 0.3530, CE_loss:0.1532, DICE_loss:0.3995,CONES_loss:0.0000, LR: 0.000300 ,Train_F1:0.7475
+
+Step Evaluation Detailed F1:
+background: 0.9198, skin: 0.9473, nose: 0.9214, eye_g: 0.3804, l_eye: 0.8565, r_eye: 0.8588, l_brow: 0.8158, r_brow: 0.8275, l_ear: 0.7812, r_ear: 0.7804, mouth: 0.8387, u_lip: 0.8478, l_lip: 0.8433, hair: 0.9113, hat: 0.1245, ear_r: 0.3783, neck_l: 0.0052, neck: 0.8715, cloth: 0.6867, 
+Macro F1: 0.7156
+Validation Macro F1-score: 0.7156
+Elapsed [1:25:17], Step [9100/20000], OHEM_STATUS:0.64505, Hard_ratio: 0.0951, Loss: 0.3544, CE_loss:0.1420, DICE_loss:0.4248,CONES_loss:0.0000, LR: 0.000296 ,Train_F1:0.7212
+Elapsed [1:26:11], Step [9200/20000], OHEM_STATUS:0.64005, Hard_ratio: 0.1416, Loss: 0.4248, CE_loss:0.2105, DICE_loss:0.4285,CONES_loss:0.0000, LR: 0.000292 ,Train_F1:0.6959
+Elapsed [1:27:07], Step [9300/20000], OHEM_STATUS:0.6350500000000001, Hard_ratio: 0.0877, Loss: 0.3257, CE_loss:0.1172, DICE_loss:0.4170,CONES_loss:0.0000, LR: 0.000288 ,Train_F1:0.7515
+Elapsed [1:28:02], Step [9400/20000], OHEM_STATUS:0.63005, Hard_ratio: 0.1388, Loss: 0.4245, CE_loss:0.2085, DICE_loss:0.4320,CONES_loss:0.0000, LR: 0.000284 ,Train_F1:0.7121
+Elapsed [1:28:58], Step [9500/20000], OHEM_STATUS:0.6250500000000001, Hard_ratio: 0.0968, Loss: 0.3375, CE_loss:0.1326, DICE_loss:0.4097,CONES_loss:0.0000, LR: 0.000280 ,Train_F1:0.7455
+
+Step Evaluation Detailed F1:
+background: 0.9269, skin: 0.9482, nose: 0.9206, eye_g: 0.3773, l_eye: 0.8634, r_eye: 0.8589, l_brow: 0.8150, r_brow: 0.8253, l_ear: 0.7926, r_ear: 0.7765, mouth: 0.8514, u_lip: 0.8471, l_lip: 0.8554, hair: 0.9172, hat: 0.1335, ear_r: 0.4391, neck_l: 0.0062, neck: 0.8680, cloth: 0.6907, 
+Macro F1: 0.7217
+Validation Macro F1-score: 0.7217
+Elapsed [1:29:54], Step [9600/20000], OHEM_STATUS:0.62005, Hard_ratio: 0.0778, Loss: 0.2962, CE_loss:0.1082, DICE_loss:0.3761,CONES_loss:0.0000, LR: 0.000276 ,Train_F1:0.7237
+Elapsed [1:30:50], Step [9700/20000], OHEM_STATUS:0.6150500000000001, Hard_ratio: 0.1130, Loss: 0.4018, CE_loss:0.1922, DICE_loss:0.4191,CONES_loss:0.0000, LR: 0.000272 ,Train_F1:0.7539
+Elapsed [1:31:45], Step [9800/20000], OHEM_STATUS:0.61005, Hard_ratio: 0.0849, Loss: 0.3176, CE_loss:0.1294, DICE_loss:0.3763,CONES_loss:0.0000, LR: 0.000268 ,Train_F1:0.7647
+Elapsed [1:32:41], Step [9900/20000], OHEM_STATUS:0.6050500000000001, Hard_ratio: 0.1251, Loss: 0.4285, CE_loss:0.2127, DICE_loss:0.4314,CONES_loss:0.0000, LR: 0.000264 ,Train_F1:0.7716
+Elapsed [1:33:36], Step [10000/20000], OHEM_STATUS:0.60005, Hard_ratio: 0.1012, Loss: 0.3698, CE_loss:0.1605, DICE_loss:0.4187,CONES_loss:0.0000, LR: 0.000260 ,Train_F1:0.7362
+
+Step Evaluation Detailed F1:
+background: 0.9213, skin: 0.9466, nose: 0.9181, eye_g: 0.3642, l_eye: 0.8577, r_eye: 0.8509, l_brow: 0.8135, r_brow: 0.8236, l_ear: 0.7828, r_ear: 0.7717, mouth: 0.8495, u_lip: 0.8465, l_lip: 0.8567, hair: 0.9155, hat: 0.1355, ear_r: 0.4061, neck_l: 0.0053, neck: 0.8597, cloth: 0.6777, 
+Macro F1: 0.7159
+Validation Macro F1-score: 0.7159
+pth file saved!
+Elapsed [1:34:34], Step [10100/20000], OHEM_STATUS:0.5950500000000001, Hard_ratio: 0.1140, Loss: 0.4440, CE_loss:0.2242, DICE_loss:0.4397,CONES_loss:0.0000, LR: 0.000256 ,Train_F1:0.7176
+Elapsed [1:35:31], Step [10200/20000], OHEM_STATUS:0.59005, Hard_ratio: 0.1209, Loss: 0.4220, CE_loss:0.2060, DICE_loss:0.4320,CONES_loss:0.0000, LR: 0.000252 ,Train_F1:0.6974
+Elapsed [1:36:26], Step [10300/20000], OHEM_STATUS:0.5850500000000001, Hard_ratio: 0.0930, Loss: 0.3582, CE_loss:0.1476, DICE_loss:0.4212,CONES_loss:0.0000, LR: 0.000248 ,Train_F1:0.7788
+Elapsed [1:37:22], Step [10400/20000], OHEM_STATUS:0.58005, Hard_ratio: 0.1023, Loss: 0.4247, CE_loss:0.2005, DICE_loss:0.4484,CONES_loss:0.0000, LR: 0.000244 ,Train_F1:0.6697
+Elapsed [1:38:17], Step [10500/20000], OHEM_STATUS:0.5750500000000001, Hard_ratio: 0.0852, Loss: 0.3601, CE_loss:0.1466, DICE_loss:0.4270,CONES_loss:0.0000, LR: 0.000240 ,Train_F1:0.7281
+
+Step Evaluation Detailed F1:
+background: 0.9213, skin: 0.9480, nose: 0.9174, eye_g: 0.3885, l_eye: 0.8616, r_eye: 0.8633, l_brow: 0.8208, r_brow: 0.8271, l_ear: 0.7804, r_ear: 0.8017, mouth: 0.8436, u_lip: 0.8541, l_lip: 0.8557, hair: 0.9129, hat: 0.1325, ear_r: 0.4049, neck_l: 0.0154, neck: 0.8642, cloth: 0.6490, 
+Macro F1: 0.7191
+Validation Macro F1-score: 0.7191
+Elapsed [1:39:15], Step [10600/20000], OHEM_STATUS:0.57005, Hard_ratio: 0.0842, Loss: 0.3118, CE_loss:0.1249, DICE_loss:0.3737,CONES_loss:0.0000, LR: 0.000236 ,Train_F1:0.7767
+Elapsed [1:40:10], Step [10700/20000], OHEM_STATUS:0.56505, Hard_ratio: 0.1043, Loss: 0.4120, CE_loss:0.1799, DICE_loss:0.4642,CONES_loss:0.0000, LR: 0.000232 ,Train_F1:0.7021
+Elapsed [1:41:06], Step [10800/20000], OHEM_STATUS:0.5600499999999999, Hard_ratio: 0.0941, Loss: 0.3545, CE_loss:0.1426, DICE_loss:0.4238,CONES_loss:0.0000, LR: 0.000228 ,Train_F1:0.8085
+Elapsed [1:42:02], Step [10900/20000], OHEM_STATUS:0.55505, Hard_ratio: 0.1092, Loss: 0.3839, CE_loss:0.1819, DICE_loss:0.4040,CONES_loss:0.0000, LR: 0.000224 ,Train_F1:0.6996
+Elapsed [1:42:57], Step [11000/20000], OHEM_STATUS:0.5500499999999999, Hard_ratio: 0.0962, Loss: 0.3754, CE_loss:0.1604, DICE_loss:0.4299,CONES_loss:0.0000, LR: 0.000220 ,Train_F1:0.7374
+
+Step Evaluation Detailed F1:
+background: 0.9254, skin: 0.9474, nose: 0.9170, eye_g: 0.3760, l_eye: 0.8638, r_eye: 0.8614, l_brow: 0.8106, r_brow: 0.8122, l_ear: 0.7834, r_ear: 0.8153, mouth: 0.8353, u_lip: 0.8462, l_lip: 0.8390, hair: 0.9176, hat: 0.1366, ear_r: 0.4410, neck_l: 0.0140, neck: 0.8723, cloth: 0.6722, 
+Macro F1: 0.7204
+Validation Macro F1-score: 0.7204
+Elapsed [1:43:53], Step [11100/20000], OHEM_STATUS:0.54505, Hard_ratio: 0.0805, Loss: 0.3282, CE_loss:0.1328, DICE_loss:0.3909,CONES_loss:0.0000, LR: 0.000216 ,Train_F1:0.7667
+Elapsed [1:44:49], Step [11200/20000], OHEM_STATUS:0.5400500000000001, Hard_ratio: 0.1358, Loss: 0.4997, CE_loss:0.2703, DICE_loss:0.4589,CONES_loss:0.0000, LR: 0.000212 ,Train_F1:0.7457
+Elapsed [1:45:44], Step [11300/20000], OHEM_STATUS:0.53505, Hard_ratio: 0.0784, Loss: 0.3313, CE_loss:0.1298, DICE_loss:0.4030,CONES_loss:0.0000, LR: 0.000208 ,Train_F1:0.7533
+Elapsed [1:46:40], Step [11400/20000], OHEM_STATUS:0.5300500000000001, Hard_ratio: 0.0691, Loss: 0.3319, CE_loss:0.1227, DICE_loss:0.4183,CONES_loss:0.0000, LR: 0.000204 ,Train_F1:0.7528
+Elapsed [1:47:35], Step [11500/20000], OHEM_STATUS:0.52505, Hard_ratio: 0.0919, Loss: 0.3652, CE_loss:0.1604, DICE_loss:0.4096,CONES_loss:0.0000, LR: 0.000200 ,Train_F1:0.7779
+
+Step Evaluation Detailed F1:
+background: 0.9274, skin: 0.9482, nose: 0.9190, eye_g: 0.3799, l_eye: 0.8601, r_eye: 0.8609, l_brow: 0.8129, r_brow: 0.8197, l_ear: 0.7820, r_ear: 0.8138, mouth: 0.8520, u_lip: 0.8559, l_lip: 0.8548, hair: 0.9195, hat: 0.1357, ear_r: 0.4336, neck_l: 0.0021, neck: 0.8632, cloth: 0.6728, 
+Macro F1: 0.7218
+Validation Macro F1-score: 0.7218
+Elapsed [1:48:32], Step [11600/20000], OHEM_STATUS:0.5200500000000001, Hard_ratio: 0.1333, Loss: 0.5251, CE_loss:0.3299, DICE_loss:0.3903,CONES_loss:0.0000, LR: 0.000196 ,Train_F1:0.7695
+Elapsed [1:49:28], Step [11700/20000], OHEM_STATUS:0.51505, Hard_ratio: 0.0895, Loss: 0.3819, CE_loss:0.1652, DICE_loss:0.4333,CONES_loss:0.0000, LR: 0.000192 ,Train_F1:0.7879
+Elapsed [1:50:23], Step [11800/20000], OHEM_STATUS:0.5100500000000001, Hard_ratio: 0.0905, Loss: 0.3785, CE_loss:0.1678, DICE_loss:0.4214,CONES_loss:0.0000, LR: 0.000188 ,Train_F1:0.7153
+Elapsed [1:51:19], Step [11900/20000], OHEM_STATUS:0.50505, Hard_ratio: 0.0829, Loss: 0.3705, CE_loss:0.1450, DICE_loss:0.4510,CONES_loss:0.0000, LR: 0.000184 ,Train_F1:0.7682
+Elapsed [1:52:15], Step [12000/20000], OHEM_STATUS:0.5000500000000001, Hard_ratio: 0.0959, Loss: 0.3907, CE_loss:0.1644, DICE_loss:0.4526,CONES_loss:0.0000, LR: 0.000180 ,Train_F1:0.6826
+
+Step Evaluation Detailed F1:
+background: 0.9274, skin: 0.9509, nose: 0.9215, eye_g: 0.3878, l_eye: 0.8648, r_eye: 0.8666, l_brow: 0.8227, r_brow: 0.8267, l_ear: 0.7933, r_ear: 0.8154, mouth: 0.8432, u_lip: 0.8469, l_lip: 0.8538, hair: 0.9206, hat: 0.1366, ear_r: 0.4661, neck_l: 0.0031, neck: 0.8650, cloth: 0.6674, 
+Macro F1: 0.7253
+Validation Macro F1-score: 0.7253
+Elapsed [1:53:13], Step [12100/20000], OHEM_STATUS:0.49505000000000005, Hard_ratio: 0.1131, Loss: 0.4292, CE_loss:0.2235, DICE_loss:0.4113,CONES_loss:0.0000, LR: 0.000177 ,Train_F1:0.7655
+Elapsed [1:54:09], Step [12200/20000], OHEM_STATUS:0.49005000000000004, Hard_ratio: 0.0895, Loss: 0.3694, CE_loss:0.1684, DICE_loss:0.4021,CONES_loss:0.0000, LR: 0.000173 ,Train_F1:0.7448
+Elapsed [1:55:05], Step [12300/20000], OHEM_STATUS:0.48505000000000004, Hard_ratio: 0.1103, Loss: 0.4314, CE_loss:0.2219, DICE_loss:0.4189,CONES_loss:0.0000, LR: 0.000169 ,Train_F1:0.7505
+Elapsed [1:56:01], Step [12400/20000], OHEM_STATUS:0.48005000000000003, Hard_ratio: 0.0737, Loss: 0.3225, CE_loss:0.1328, DICE_loss:0.3794,CONES_loss:0.0000, LR: 0.000165 ,Train_F1:0.7927
+Elapsed [1:56:57], Step [12500/20000], OHEM_STATUS:0.47505000000000003, Hard_ratio: 0.0890, Loss: 0.3996, CE_loss:0.1769, DICE_loss:0.4454,CONES_loss:0.0000, LR: 0.000161 ,Train_F1:0.6979
+
+Step Evaluation Detailed F1:
+background: 0.9267, skin: 0.9497, nose: 0.9223, eye_g: 0.3831, l_eye: 0.8660, r_eye: 0.8667, l_brow: 0.8211, r_brow: 0.8289, l_ear: 0.7844, r_ear: 0.8133, mouth: 0.8524, u_lip: 0.8588, l_lip: 0.8612, hair: 0.9183, hat: 0.1363, ear_r: 0.4350, neck_l: 0.0039, neck: 0.8698, cloth: 0.6921, 
+Macro F1: 0.7258
+Validation Macro F1-score: 0.7258
+Elapsed [1:57:54], Step [12600/20000], OHEM_STATUS:0.47005, Hard_ratio: 0.0716, Loss: 0.3301, CE_loss:0.1339, DICE_loss:0.3923,CONES_loss:0.0000, LR: 0.000158 ,Train_F1:0.7790
+Elapsed [1:58:51], Step [12700/20000], OHEM_STATUS:0.46505, Hard_ratio: 0.0684, Loss: 0.3269, CE_loss:0.1317, DICE_loss:0.3902,CONES_loss:0.0000, LR: 0.000154 ,Train_F1:0.8242
+Elapsed [1:59:47], Step [12800/20000], OHEM_STATUS:0.46005, Hard_ratio: 0.1244, Loss: 0.5159, CE_loss:0.2933, DICE_loss:0.4452,CONES_loss:0.0000, LR: 0.000150 ,Train_F1:0.7749
+Elapsed [2:00:43], Step [12900/20000], OHEM_STATUS:0.45505, Hard_ratio: 0.0759, Loss: 0.3361, CE_loss:0.1446, DICE_loss:0.3831,CONES_loss:0.0000, LR: 0.000146 ,Train_F1:0.8520
+Elapsed [2:01:39], Step [13000/20000], OHEM_STATUS:0.45005, Hard_ratio: 0.0905, Loss: 0.3967, CE_loss:0.1863, DICE_loss:0.4208,CONES_loss:0.0000, LR: 0.000143 ,Train_F1:0.7107
+
+Step Evaluation Detailed F1:
+background: 0.9242, skin: 0.9484, nose: 0.9215, eye_g: 0.3578, l_eye: 0.8648, r_eye: 0.8663, l_brow: 0.8166, r_brow: 0.8199, l_ear: 0.7824, r_ear: 0.7951, mouth: 0.8402, u_lip: 0.8532, l_lip: 0.8517, hair: 0.9140, hat: 0.1047, ear_r: 0.4314, neck_l: 0.0017, neck: 0.8642, cloth: 0.6829, 
+Macro F1: 0.7179
+Validation Macro F1-score: 0.7179
+Elapsed [2:02:36], Step [13100/20000], OHEM_STATUS:0.44505, Hard_ratio: 0.0859, Loss: 0.3897, CE_loss:0.1854, DICE_loss:0.4086,CONES_loss:0.0000, LR: 0.000139 ,Train_F1:0.8493
+Elapsed [2:03:32], Step [13200/20000], OHEM_STATUS:0.44005, Hard_ratio: 0.0732, Loss: 0.3306, CE_loss:0.1489, DICE_loss:0.3634,CONES_loss:0.0000, LR: 0.000136 ,Train_F1:0.8041
+Elapsed [2:04:29], Step [13300/20000], OHEM_STATUS:0.43505, Hard_ratio: 0.0907, Loss: 0.3990, CE_loss:0.1852, DICE_loss:0.4276,CONES_loss:0.0000, LR: 0.000132 ,Train_F1:0.7690
+Elapsed [2:05:25], Step [13400/20000], OHEM_STATUS:0.43005, Hard_ratio: 0.0943, Loss: 0.3959, CE_loss:0.1896, DICE_loss:0.4126,CONES_loss:0.0000, LR: 0.000129 ,Train_F1:0.7595
+Elapsed [2:06:21], Step [13500/20000], OHEM_STATUS:0.42505, Hard_ratio: 0.0704, Loss: 0.3361, CE_loss:0.1498, DICE_loss:0.3727,CONES_loss:0.0000, LR: 0.000125 ,Train_F1:0.7904
+
+Step Evaluation Detailed F1:
+background: 0.9316, skin: 0.9495, nose: 0.9224, eye_g: 0.3871, l_eye: 0.8662, r_eye: 0.8659, l_brow: 0.8186, r_brow: 0.8241, l_ear: 0.7920, r_ear: 0.8159, mouth: 0.8537, u_lip: 0.8560, l_lip: 0.8617, hair: 0.9191, hat: 0.1378, ear_r: 0.4611, neck_l: 0.0073, neck: 0.8689, cloth: 0.6950, 
+Macro F1: 0.7281
+Validation Macro F1-score: 0.7281
+Elapsed [2:07:19], Step [13600/20000], OHEM_STATUS:0.42005, Hard_ratio: 0.0745, Loss: 0.3535, CE_loss:0.1402, DICE_loss:0.4267,CONES_loss:0.0000, LR: 0.000122 ,Train_F1:0.7791
+Elapsed [2:08:15], Step [13700/20000], OHEM_STATUS:0.4150500000000001, Hard_ratio: 0.0874, Loss: 0.4056, CE_loss:0.2037, DICE_loss:0.4038,CONES_loss:0.0000, LR: 0.000118 ,Train_F1:0.8154
+Elapsed [2:09:12], Step [13800/20000], OHEM_STATUS:0.4100500000000001, Hard_ratio: 0.0935, Loss: 0.4593, CE_loss:0.2581, DICE_loss:0.4022,CONES_loss:0.0000, LR: 0.000115 ,Train_F1:0.7301
+Elapsed [2:10:08], Step [13900/20000], OHEM_STATUS:0.4050500000000001, Hard_ratio: 0.1011, Loss: 0.4644, CE_loss:0.2574, DICE_loss:0.4139,CONES_loss:0.0000, LR: 0.000111 ,Train_F1:0.7178
+Elapsed [2:11:06], Step [14000/20000], OHEM_STATUS:0.40005000000000007, Hard_ratio: 0.0858, Loss: 0.4228, CE_loss:0.2055, DICE_loss:0.4345,CONES_loss:0.0000, LR: 0.000108 ,Train_F1:0.7069
+
+Step Evaluation Detailed F1:
+background: 0.9261, skin: 0.9493, nose: 0.9232, eye_g: 0.3773, l_eye: 0.8607, r_eye: 0.8605, l_brow: 0.8182, r_brow: 0.8225, l_ear: 0.7880, r_ear: 0.7965, mouth: 0.8450, u_lip: 0.8572, l_lip: 0.8519, hair: 0.9169, hat: 0.1362, ear_r: 0.4598, neck_l: 0.0134, neck: 0.8697, cloth: 0.6959, 
+Macro F1: 0.7246
+Validation Macro F1-score: 0.7246
+Elapsed [2:12:03], Step [14100/20000], OHEM_STATUS:0.39505000000000007, Hard_ratio: 0.0861, Loss: 0.3898, CE_loss:0.1997, DICE_loss:0.3802,CONES_loss:0.0000, LR: 0.000105 ,Train_F1:0.7994
+Elapsed [2:13:00], Step [14200/20000], OHEM_STATUS:0.39005000000000006, Hard_ratio: 0.0866, Loss: 0.3888, CE_loss:0.2032, DICE_loss:0.3711,CONES_loss:0.0000, LR: 0.000101 ,Train_F1:0.7816
+Elapsed [2:13:56], Step [14300/20000], OHEM_STATUS:0.38505000000000006, Hard_ratio: 0.0864, Loss: 0.4210, CE_loss:0.2100, DICE_loss:0.4221,CONES_loss:0.0000, LR: 0.000098 ,Train_F1:0.7342
+Elapsed [2:14:52], Step [14400/20000], OHEM_STATUS:0.38005000000000005, Hard_ratio: 0.0932, Loss: 0.4102, CE_loss:0.2153, DICE_loss:0.3896,CONES_loss:0.0000, LR: 0.000095 ,Train_F1:0.7943
+Elapsed [2:15:49], Step [14500/20000], OHEM_STATUS:0.37505000000000005, Hard_ratio: 0.1163, Loss: 0.5235, CE_loss:0.3252, DICE_loss:0.3967,CONES_loss:0.0000, LR: 0.000092 ,Train_F1:0.7476
+
+Step Evaluation Detailed F1:
+background: 0.9278, skin: 0.9492, nose: 0.9217, eye_g: 0.3789, l_eye: 0.8640, r_eye: 0.8637, l_brow: 0.8214, r_brow: 0.8251, l_ear: 0.7891, r_ear: 0.8100, mouth: 0.8563, u_lip: 0.8560, l_lip: 0.8591, hair: 0.9192, hat: 0.1362, ear_r: 0.4736, neck_l: 0.0074, neck: 0.8722, cloth: 0.6951, 
+Macro F1: 0.7277
+Validation Macro F1-score: 0.7277
+Elapsed [2:16:47], Step [14600/20000], OHEM_STATUS:0.37005000000000005, Hard_ratio: 0.1059, Loss: 0.4912, CE_loss:0.2831, DICE_loss:0.4161,CONES_loss:0.0000, LR: 0.000089 ,Train_F1:0.7195
+Elapsed [2:17:44], Step [14700/20000], OHEM_STATUS:0.36505000000000004, Hard_ratio: 0.0918, Loss: 0.4826, CE_loss:0.2827, DICE_loss:0.3998,CONES_loss:0.0000, LR: 0.000086 ,Train_F1:0.7497
+Elapsed [2:18:40], Step [14800/20000], OHEM_STATUS:0.36005000000000004, Hard_ratio: 0.0684, Loss: 0.3560, CE_loss:0.1759, DICE_loss:0.3602,CONES_loss:0.0000, LR: 0.000083 ,Train_F1:0.8479
+Elapsed [2:19:36], Step [14900/20000], OHEM_STATUS:0.35505000000000003, Hard_ratio: 0.0772, Loss: 0.3969, CE_loss:0.1915, DICE_loss:0.4110,CONES_loss:0.0000, LR: 0.000080 ,Train_F1:0.7839
+Elapsed [2:20:32], Step [15000/20000], OHEM_STATUS:0.35005000000000003, Hard_ratio: 0.0895, Loss: 0.4283, CE_loss:0.2201, DICE_loss:0.4165,CONES_loss:0.0000, LR: 0.000077 ,Train_F1:0.7418
+
+Step Evaluation Detailed F1:
+background: 0.9278, skin: 0.9503, nose: 0.9231, eye_g: 0.3827, l_eye: 0.8597, r_eye: 0.8615, l_brow: 0.8206, r_brow: 0.8260, l_ear: 0.7827, r_ear: 0.8027, mouth: 0.8526, u_lip: 0.8590, l_lip: 0.8546, hair: 0.9185, hat: 0.1367, ear_r: 0.4509, neck_l: 0.0169, neck: 0.8718, cloth: 0.7010, 
+Macro F1: 0.7263
+Validation Macro F1-score: 0.7263
+pth file saved!
+Elapsed [2:21:30], Step [15100/20000], OHEM_STATUS:0.34505, Hard_ratio: 0.0714, Loss: 0.3719, CE_loss:0.1738, DICE_loss:0.3962,CONES_loss:0.0000, LR: 0.000074 ,Train_F1:0.7788
+Elapsed [2:22:27], Step [15200/20000], OHEM_STATUS:0.34005, Hard_ratio: 0.0711, Loss: 0.3613, CE_loss:0.1742, DICE_loss:0.3743,CONES_loss:0.0000, LR: 0.000071 ,Train_F1:0.8136
+Elapsed [2:23:24], Step [15300/20000], OHEM_STATUS:0.33505, Hard_ratio: 0.1013, Loss: 0.4773, CE_loss:0.2740, DICE_loss:0.4066,CONES_loss:0.0000, LR: 0.000068 ,Train_F1:0.7290
+Elapsed [2:24:20], Step [15400/20000], OHEM_STATUS:0.33005, Hard_ratio: 0.1181, Loss: 0.5587, CE_loss:0.3541, DICE_loss:0.4091,CONES_loss:0.0000, LR: 0.000066 ,Train_F1:0.7410
+Elapsed [2:25:16], Step [15500/20000], OHEM_STATUS:0.32505, Hard_ratio: 0.1075, Loss: 0.5108, CE_loss:0.2890, DICE_loss:0.4436,CONES_loss:0.0000, LR: 0.000063 ,Train_F1:0.6800
+
+Step Evaluation Detailed F1:
+background: 0.9282, skin: 0.9496, nose: 0.9216, eye_g: 0.3814, l_eye: 0.8627, r_eye: 0.8603, l_brow: 0.8217, r_brow: 0.8269, l_ear: 0.7945, r_ear: 0.8046, mouth: 0.8517, u_lip: 0.8575, l_lip: 0.8581, hair: 0.9205, hat: 0.1381, ear_r: 0.4625, neck_l: 0.0059, neck: 0.8682, cloth: 0.7051, 
+Macro F1: 0.7273
+Validation Macro F1-score: 0.7273
+Elapsed [2:26:13], Step [15600/20000], OHEM_STATUS:0.32005, Hard_ratio: 0.0659, Loss: 0.3860, CE_loss:0.1818, DICE_loss:0.4083,CONES_loss:0.0000, LR: 0.000060 ,Train_F1:0.7851
+Elapsed [2:27:10], Step [15700/20000], OHEM_STATUS:0.31505, Hard_ratio: 0.0748, Loss: 0.4228, CE_loss:0.1954, DICE_loss:0.4548,CONES_loss:0.0000, LR: 0.000058 ,Train_F1:0.7229
+Elapsed [2:28:06], Step [15800/20000], OHEM_STATUS:0.31005, Hard_ratio: 0.0792, Loss: 0.4128, CE_loss:0.2162, DICE_loss:0.3933,CONES_loss:0.0000, LR: 0.000055 ,Train_F1:0.7532
+Elapsed [2:29:03], Step [15900/20000], OHEM_STATUS:0.30505, Hard_ratio: 0.1038, Loss: 0.5315, CE_loss:0.3060, DICE_loss:0.4509,CONES_loss:0.0000, LR: 0.000053 ,Train_F1:0.6996
+Elapsed [2:29:59], Step [16000/20000], OHEM_STATUS:0.30005, Hard_ratio: 0.0895, Loss: 0.4690, CE_loss:0.2727, DICE_loss:0.3926,CONES_loss:0.0000, LR: 0.000050 ,Train_F1:0.7350
+
+Step Evaluation Detailed F1:
+background: 0.9300, skin: 0.9506, nose: 0.9242, eye_g: 0.3863, l_eye: 0.8637, r_eye: 0.8648, l_brow: 0.8227, r_brow: 0.8269, l_ear: 0.7966, r_ear: 0.8025, mouth: 0.8600, u_lip: 0.8572, l_lip: 0.8622, hair: 0.9206, hat: 0.1385, ear_r: 0.4590, neck_l: 0.0067, neck: 0.8709, cloth: 0.7067, 
+Macro F1: 0.7290
+Validation Macro F1-score: 0.7290
+Elapsed [2:30:57], Step [16100/20000], OHEM_STATUS:0.3, Hard_ratio: 0.1024, Loss: 0.5013, CE_loss:0.2893, DICE_loss:0.4242,CONES_loss:0.0000, LR: 0.000048 ,Train_F1:0.7966
+Elapsed [2:31:53], Step [16200/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0774, Loss: 0.4205, CE_loss:0.2008, DICE_loss:0.4394,CONES_loss:0.0000, LR: 0.000045 ,Train_F1:0.7429
+Elapsed [2:32:49], Step [16300/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0853, Loss: 0.4538, CE_loss:0.2509, DICE_loss:0.4058,CONES_loss:0.0000, LR: 0.000043 ,Train_F1:0.7289
+Elapsed [2:33:46], Step [16400/20000], OHEM_STATUS:0.3, Hard_ratio: 0.1105, Loss: 0.5896, CE_loss:0.3781, DICE_loss:0.4230,CONES_loss:0.0000, LR: 0.000041 ,Train_F1:0.7639
+Elapsed [2:34:43], Step [16500/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0743, Loss: 0.4027, CE_loss:0.2122, DICE_loss:0.3810,CONES_loss:0.0000, LR: 0.000039 ,Train_F1:0.8045
+
+Step Evaluation Detailed F1:
+background: 0.9289, skin: 0.9494, nose: 0.9236, eye_g: 0.3836, l_eye: 0.8636, r_eye: 0.8627, l_brow: 0.8196, r_brow: 0.8237, l_ear: 0.7941, r_ear: 0.8090, mouth: 0.8520, u_lip: 0.8563, l_lip: 0.8577, hair: 0.9201, hat: 0.1384, ear_r: 0.4651, neck_l: 0.0078, neck: 0.8698, cloth: 0.7034, 
+Macro F1: 0.7278
+Validation Macro F1-score: 0.7278
+Elapsed [2:35:41], Step [16600/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0851, Loss: 0.4492, CE_loss:0.2468, DICE_loss:0.4048,CONES_loss:0.0000, LR: 0.000037 ,Train_F1:0.7276
+Elapsed [2:36:37], Step [16700/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0673, Loss: 0.4304, CE_loss:0.2235, DICE_loss:0.4137,CONES_loss:0.0000, LR: 0.000035 ,Train_F1:0.7904
+Elapsed [2:37:34], Step [16800/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0816, Loss: 0.4031, CE_loss:0.2076, DICE_loss:0.3910,CONES_loss:0.0000, LR: 0.000032 ,Train_F1:0.7414
+Elapsed [2:38:30], Step [16900/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0664, Loss: 0.3926, CE_loss:0.1997, DICE_loss:0.3859,CONES_loss:0.0000, LR: 0.000031 ,Train_F1:0.7506
+Elapsed [2:39:27], Step [17000/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0936, Loss: 0.4825, CE_loss:0.2855, DICE_loss:0.3941,CONES_loss:0.0000, LR: 0.000029 ,Train_F1:0.8175
+
+Step Evaluation Detailed F1:
+background: 0.9306, skin: 0.9499, nose: 0.9238, eye_g: 0.3822, l_eye: 0.8627, r_eye: 0.8643, l_brow: 0.8203, r_brow: 0.8241, l_ear: 0.7919, r_ear: 0.8078, mouth: 0.8571, u_lip: 0.8569, l_lip: 0.8607, hair: 0.9219, hat: 0.1375, ear_r: 0.4632, neck_l: 0.0101, neck: 0.8722, cloth: 0.7081, 
+Macro F1: 0.7287
+Validation Macro F1-score: 0.7287
+Elapsed [2:40:25], Step [17100/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0845, Loss: 0.4687, CE_loss:0.2649, DICE_loss:0.4077,CONES_loss:0.0000, LR: 0.000027 ,Train_F1:0.7541
+Elapsed [2:41:22], Step [17200/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0802, Loss: 0.4239, CE_loss:0.2291, DICE_loss:0.3896,CONES_loss:0.0000, LR: 0.000025 ,Train_F1:0.7791
+Elapsed [2:42:19], Step [17300/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0763, Loss: 0.4331, CE_loss:0.2308, DICE_loss:0.4046,CONES_loss:0.0000, LR: 0.000023 ,Train_F1:0.7513
+Elapsed [2:43:16], Step [17400/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0775, Loss: 0.4280, CE_loss:0.2334, DICE_loss:0.3893,CONES_loss:0.0000, LR: 0.000022 ,Train_F1:0.7474
+Elapsed [2:44:12], Step [17500/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0777, Loss: 0.4272, CE_loss:0.2329, DICE_loss:0.3887,CONES_loss:0.0000, LR: 0.000020 ,Train_F1:0.8250
+
+Step Evaluation Detailed F1:
+background: 0.9304, skin: 0.9498, nose: 0.9227, eye_g: 0.3823, l_eye: 0.8627, r_eye: 0.8642, l_brow: 0.8188, r_brow: 0.8259, l_ear: 0.7964, r_ear: 0.8167, mouth: 0.8587, u_lip: 0.8577, l_lip: 0.8620, hair: 0.9209, hat: 0.1379, ear_r: 0.4646, neck_l: 0.0062, neck: 0.8684, cloth: 0.7029, 
+Macro F1: 0.7289
+Validation Macro F1-score: 0.7289
+Elapsed [2:45:10], Step [17600/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0671, Loss: 0.3985, CE_loss:0.1836, DICE_loss:0.4297,CONES_loss:0.0000, LR: 0.000018 ,Train_F1:0.7734
+Elapsed [2:46:06], Step [17700/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0959, Loss: 0.4634, CE_loss:0.2636, DICE_loss:0.3996,CONES_loss:0.0000, LR: 0.000017 ,Train_F1:0.7441
+Elapsed [2:47:03], Step [17800/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0657, Loss: 0.3910, CE_loss:0.1968, DICE_loss:0.3884,CONES_loss:0.0000, LR: 0.000016 ,Train_F1:0.8016
+Elapsed [2:48:00], Step [17900/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0930, Loss: 0.4980, CE_loss:0.2942, DICE_loss:0.4078,CONES_loss:0.0000, LR: 0.000014 ,Train_F1:0.7359
+Elapsed [2:48:56], Step [18000/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0646, Loss: 0.3862, CE_loss:0.1931, DICE_loss:0.3862,CONES_loss:0.0000, LR: 0.000013 ,Train_F1:0.7455
+
+Step Evaluation Detailed F1:
+background: 0.9304, skin: 0.9502, nose: 0.9246, eye_g: 0.3814, l_eye: 0.8628, r_eye: 0.8651, l_brow: 0.8197, r_brow: 0.8247, l_ear: 0.7967, r_ear: 0.8099, mouth: 0.8548, u_lip: 0.8578, l_lip: 0.8598, hair: 0.9213, hat: 0.1381, ear_r: 0.4766, neck_l: 0.0112, neck: 0.8710, cloth: 0.7054, 
+Macro F1: 0.7296
+Validation Macro F1-score: 0.7296
+Elapsed [2:49:54], Step [18100/20000], OHEM_STATUS:0.3, Hard_ratio: 0.1163, Loss: 0.5642, CE_loss:0.3483, DICE_loss:0.4319,CONES_loss:0.0000, LR: 0.000012 ,Train_F1:0.7164
+Elapsed [2:50:50], Step [18200/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0878, Loss: 0.4504, CE_loss:0.2588, DICE_loss:0.3832,CONES_loss:0.0000, LR: 0.000010 ,Train_F1:0.7917
+Elapsed [2:51:47], Step [18300/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0656, Loss: 0.3781, CE_loss:0.1910, DICE_loss:0.3742,CONES_loss:0.0000, LR: 0.000009 ,Train_F1:0.7639
+Elapsed [2:52:44], Step [18400/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0724, Loss: 0.4167, CE_loss:0.2080, DICE_loss:0.4174,CONES_loss:0.0000, LR: 0.000008 ,Train_F1:0.7465
+Elapsed [2:53:41], Step [18500/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0825, Loss: 0.4259, CE_loss:0.2246, DICE_loss:0.4025,CONES_loss:0.0000, LR: 0.000007 ,Train_F1:0.7322
+
+Step Evaluation Detailed F1:
+background: 0.9314, skin: 0.9499, nose: 0.9235, eye_g: 0.3806, l_eye: 0.8631, r_eye: 0.8651, l_brow: 0.8183, r_brow: 0.8240, l_ear: 0.7977, r_ear: 0.8115, mouth: 0.8569, u_lip: 0.8602, l_lip: 0.8610, hair: 0.9225, hat: 0.1377, ear_r: 0.4580, neck_l: 0.0083, neck: 0.8689, cloth: 0.7061, 
+Macro F1: 0.7287
+Validation Macro F1-score: 0.7287
+Elapsed [2:54:39], Step [18600/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0767, Loss: 0.4344, CE_loss:0.2280, DICE_loss:0.4128,CONES_loss:0.0000, LR: 0.000006 ,Train_F1:0.7294
+Elapsed [2:55:35], Step [18700/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0711, Loss: 0.3925, CE_loss:0.1835, DICE_loss:0.4180,CONES_loss:0.0000, LR: 0.000005 ,Train_F1:0.7179
+Elapsed [2:56:32], Step [18800/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0966, Loss: 0.5037, CE_loss:0.3042, DICE_loss:0.3990,CONES_loss:0.0000, LR: 0.000005 ,Train_F1:0.7782
+Elapsed [2:57:29], Step [18900/20000], OHEM_STATUS:0.3, Hard_ratio: 0.1334, Loss: 0.6919, CE_loss:0.4988, DICE_loss:0.3864,CONES_loss:0.0000, LR: 0.000004 ,Train_F1:0.7159
+Elapsed [2:58:25], Step [19000/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0672, Loss: 0.3920, CE_loss:0.1874, DICE_loss:0.4092,CONES_loss:0.0000, LR: 0.000003 ,Train_F1:0.8130
+
+Step Evaluation Detailed F1:
+background: 0.9314, skin: 0.9499, nose: 0.9233, eye_g: 0.3803, l_eye: 0.8636, r_eye: 0.8647, l_brow: 0.8197, r_brow: 0.8257, l_ear: 0.7968, r_ear: 0.8133, mouth: 0.8562, u_lip: 0.8588, l_lip: 0.8609, hair: 0.9216, hat: 0.1377, ear_r: 0.4697, neck_l: 0.0082, neck: 0.8699, cloth: 0.7086, 
+Macro F1: 0.7295
+Validation Macro F1-score: 0.7295
+Elapsed [2:59:23], Step [19100/20000], OHEM_STATUS:0.3, Hard_ratio: 0.1024, Loss: 0.5347, CE_loss:0.3333, DICE_loss:0.4027,CONES_loss:0.0000, LR: 0.000003 ,Train_F1:0.7795
+Elapsed [3:00:19], Step [19200/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0975, Loss: 0.5184, CE_loss:0.2996, DICE_loss:0.4376,CONES_loss:0.0000, LR: 0.000002 ,Train_F1:0.7758
+Elapsed [3:01:16], Step [19300/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0781, Loss: 0.4453, CE_loss:0.2408, DICE_loss:0.4089,CONES_loss:0.0000, LR: 0.000002 ,Train_F1:0.7714
+Elapsed [3:02:12], Step [19400/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0941, Loss: 0.4383, CE_loss:0.2392, DICE_loss:0.3981,CONES_loss:0.0000, LR: 0.000001 ,Train_F1:0.7865
+Elapsed [3:03:09], Step [19500/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0657, Loss: 0.3849, CE_loss:0.1786, DICE_loss:0.4128,CONES_loss:0.0000, LR: 0.000001 ,Train_F1:0.7464
+
+Step Evaluation Detailed F1:
+background: 0.9309, skin: 0.9503, nose: 0.9242, eye_g: 0.3833, l_eye: 0.8621, r_eye: 0.8649, l_brow: 0.8175, r_brow: 0.8253, l_ear: 0.7971, r_ear: 0.8136, mouth: 0.8571, u_lip: 0.8579, l_lip: 0.8613, hair: 0.9226, hat: 0.1381, ear_r: 0.4756, neck_l: 0.0082, neck: 0.8694, cloth: 0.7081, 
+Macro F1: 0.7299
+Validation Macro F1-score: 0.7299
+Elapsed [3:04:07], Step [19600/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0852, Loss: 0.4347, CE_loss:0.2468, DICE_loss:0.3759,CONES_loss:0.0000, LR: 0.000001 ,Train_F1:0.7398
+Elapsed [3:05:04], Step [19700/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0811, Loss: 0.4648, CE_loss:0.2670, DICE_loss:0.3957,CONES_loss:0.0000, LR: 0.000000 ,Train_F1:0.8233
+Elapsed [3:06:00], Step [19800/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0602, Loss: 0.3542, CE_loss:0.1683, DICE_loss:0.3718,CONES_loss:0.0000, LR: 0.000000 ,Train_F1:0.8010
+Elapsed [3:06:57], Step [19900/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0709, Loss: 0.3973, CE_loss:0.1849, DICE_loss:0.4247,CONES_loss:0.0000, LR: 0.000000 ,Train_F1:0.7068
+Elapsed [3:07:54], Step [20000/20000], OHEM_STATUS:0.3, Hard_ratio: 0.0872, Loss: 0.4367, CE_loss:0.2310, DICE_loss:0.4114,CONES_loss:0.0000, LR: 0.000000 ,Train_F1:0.7382
+
+Step Evaluation Detailed F1:
+background: 0.9308, skin: 0.9501, nose: 0.9242, eye_g: 0.3829, l_eye: 0.8636, r_eye: 0.8650, l_brow: 0.8198, r_brow: 0.8254, l_ear: 0.7949, r_ear: 0.8107, mouth: 0.8578, u_lip: 0.8578, l_lip: 0.8618, hair: 0.9218, hat: 0.1378, ear_r: 0.4679, neck_l: 0.0075, neck: 0.8688, cloth: 0.7072, 
+Macro F1: 0.7293
+Validation Macro F1-score: 0.7293
+pth file saved!
